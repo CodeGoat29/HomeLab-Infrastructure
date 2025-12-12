@@ -28,6 +28,11 @@ It also serves as a groundwork for future projects, including CDN-style caching 
 - **Nginx Proxy Manager**
 - Provides SSL, routing, and public access to internal services.
 
+### **Domain & Hosting**
+- **Domain Registrar:** OpenSRS  
+- **Public Website Hosting:** GitHub Pages  
+- The primary domain is registered through OpenSRS, while DNS is configured to point the domain to GitHub Pages for static site hosting. This allows the website to be deployed directly from the GitHub repository https://github.com/CodeGoat29/Website-Portfolio
+
 ---
 
 ## 🏗️ Architecture Diagram
